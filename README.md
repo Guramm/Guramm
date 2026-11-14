@@ -22,7 +22,7 @@ I'm a **junior front-end developer** who loves learning new things every day. I 
 ## 📈 Contribution activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Guramm&theme=dark&hide_border=true&background=0D1117&ring=3178C6&fire=61DAFB&currStreakLabel=61DAFB" alt="contribution streak" />
+  <img src="https://raw.githubusercontent.com/Guramm/Guramm/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
 ## 🛠 Tech stack
