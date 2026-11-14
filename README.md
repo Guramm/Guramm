@@ -1,15 +1,20 @@
-# Hi, I'm Guram 👋
+<div align="center">
 
-Front-end developer from Tbilisi, Georgia 🇬🇪
-I build web apps with React and TypeScript, and I study Computer Science.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=200&section=header&text=Guram%20Nikabadze&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descSize=18" alt="banner" />
+
+<a href="https://github.com/Guramm">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Guram+%F0%9F%91%8B;Front-end+Developer;React+%26+TypeScript;Computer+Science+Student;Based+in+Tbilisi%2C+Georgia+%F0%9F%87%AC%F0%9F%87%AA" alt="typing animation" />
+</a>
+
+</div>
+
+---
 
 ## 🛠 Tech stack
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,html,css,figma&theme=dark" alt="tech stack" />
+</div>
 
 Also: REST APIs, markup, working with AI tools.
 
@@ -20,13 +25,11 @@ Also: REST APIs, markup, working with AI tools.
 ## 🌱 Learning
 
 - Computer Science at university
-- Always improving my React and TypeScript
+- Getting better at React and TypeScript every day
 
 ## 📫 Contact
 
 - Email: your-email@example.com
 - LinkedIn: your-linkedin-link
 
-## 📊 GitHub stats
-
-![Guram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guramm&show_icons=true&theme=transparent)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=120&section=footer" alt="footer" />
