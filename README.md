@@ -37,7 +37,7 @@ Also: REST APIs, markup, working with AI tools.
 ## 🌱 Learning
 
 - Computer Science at university
-- Getting better at React and TypeScript every day
+- Getting better at React and Next.js every day
 
 ## 📫 Contact
 
