@@ -17,7 +17,7 @@
 
 ## ✨ About me
 
-I'm a **junior front-end developer** who loves building clean, fast and beautiful web interfaces. I work with **React** and **TypeScript**, and I'm studying **Computer Science** at university.
+I'm a **junior front-end developer** who loves learning, and I'm always curious about new tools and ideas. I work with **React** and **TypeScript**, and I'm studying **Computer Science** at university.
 
 ## 🛠 Tech stack
 
@@ -29,9 +29,10 @@ I'm a **junior front-end developer** who loves building clean, fast and beautifu
 
 Also: REST APIs, markup, working with AI tools.
 
-## 🚀 What I'm working on
+- ## 🚀 Projects
 
-- **Benefits:** a website for an insurance company. I do the markup and the API integration. (In progress, the code is private.)
+- 🧩 **Mini projects:** small React and TypeScript apps that I build to practice and learn new things.
+- 💡 **My own thing:** a personal project that I'm building from my own idea. (In progress)
 
 ## 🌱 Learning
 
@@ -40,7 +41,7 @@ Also: REST APIs, markup, working with AI tools.
 
 ## 📫 Contact
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-link
+- Email: guram.niakbadze04@gmail.com
+- LinkedIn: https://www.linkedin.com/in/guram-nikabadze-2b852242a/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:3178C6,100:0d1117&height=140&section=footer&animation=twinkling" alt="footer" />
