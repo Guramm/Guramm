@@ -22,7 +22,7 @@ I'm a **junior front-end developer** who loves learning new things every day. I 
 ## 📈 Contribution activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guramm&custom_title=Guram%27s%20Contributions&area=true&area_color=61DAFB&color=61DAFB&line=3178C6&point=ffffff&bg_color=0d1117&title_color=ffffff&hide_border=true&radius=10" alt="contribution chart" />
+  <img src="https://ghchart.rshah.org/3178C6/Guramm" alt="contributions" />
 </div>
 
 ## 🛠 Tech stack
