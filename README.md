@@ -1,20 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:3178C6&height=200&section=header&text=Guram%20Nikabadze&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer&descAlignY=58&descSize=18" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:3178C6,100:61DAFB&height=260&section=header&text=Guram%20Nikabadze&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=%E2%9C%A8%20Junior%20Front-end%20Developer%20%E2%9C%A8&descAlignY=58&descSize=20" alt="banner" />
 
 <a href="https://github.com/Guramm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Guram+%F0%9F%91%8B;Front-end+Developer;React+%26+TypeScript;Computer+Science+Student;Based+in+Tbilisi%2C+Georgia+%F0%9F%87%AC%F0%9F%87%AA" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=%F0%9F%8E%86+Hi%2C+I'm+Guram+%F0%9F%8E%86;Junior+Front-end+Developer;Building+with+React+%26+TypeScript;Computer+Science+Student;Tbilisi%2C+Georgia+%F0%9F%87%AC%F0%9F%87%AA;Open+to+work+%E2%9C%A8" alt="typing animation" />
 </a>
+
+<br/>
+
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Junior%20Front--end-brightgreen?style=for-the-badge&logo=github)
+![Location](https://img.shields.io/badge/Tbilisi-Georgia-3178C6?style=for-the-badge)
 
 </div>
 
 ---
+
+## ✨ About me
+
+I'm a **junior front-end developer** who loves building clean, fast and beautiful web interfaces. I work with **React** and **TypeScript**, and I'm studying **Computer Science** at university.
 
 ## 🛠 Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,ts,html,css,figma&theme=dark" alt="tech stack" />
 </div>
+
+<br/>
 
 Also: REST APIs, markup, working with AI tools.
 
@@ -32,4 +43,4 @@ Also: REST APIs, markup, working with AI tools.
 - Email: your-email@example.com
 - LinkedIn: your-linkedin-link
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:61DAFB&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,50:3178C6,100:0d1117&height=140&section=footer&animation=twinkling" alt="footer" />
