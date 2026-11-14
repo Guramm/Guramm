@@ -33,6 +33,10 @@ I'm a **junior front-end developer** who loves learning new things every day. I 
 
 <br/>
 
+<img src="your-file-name.gif" width="100%" alt="animation" />
+
+<br/>
+
 Also: REST APIs, markup, working with AI tools.
 
 - ## 🚀 Projects
