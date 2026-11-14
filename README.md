@@ -17,12 +17,12 @@
 
 ## ✨ About me
 
-I'm a **junior front-end developer** who loves learning, and I'm always curious about new tools and ideas. I work with **React** and **TypeScript**, and I'm studying **Computer Science** at university.
+I'm a **junior front-end developer** who loves learning new things every day. I work with **React** and **Next.js**, and I'm studying **Computer Science** at university.
 
 ## 🛠 Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,html,css,figma&theme=dark" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,figma&theme=dark" alt="tech stack" />
 </div>
 
 <br/>
