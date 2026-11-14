@@ -19,9 +19,11 @@
 
 I'm a **junior front-end developer** who loves learning new things every day. I work with **React** and **Next.js**, and I'm studying **Computer Science** at university.
 
-## 📈 Contribution activity
+## 📊 Contributions
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Guramm&theme=dark&hide_border=true&background=0D1117&ring=3178C6&fire=61DAFB&currStreakLabel=61DAFB" alt="contribution streak" />
+  <br/><br/>
   <img src="https://raw.githubusercontent.com/Guramm/Guramm/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 
